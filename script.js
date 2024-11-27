@@ -18,6 +18,8 @@ const locations = [
     { name: "The Dáil Bar", coords: [53.27170983518985, -9.053512147739829], rules: "rule" },
     { name: "Róisín Dubh", coords: [53.2702869003129, -9.058263989321592], rules: "rule" },
     { name: "Cookes Thatch Bar", coords: [53.27273073312971, -9.062744473203534], rules: "rule" },
+    { name: "Bierhaus", coords: [53.271305093032204, -9.05892424081999], rules: "rule" },
+    { name: "The Crane Bar", coords: [53.271305093032204, -9.061327500049803], rules: "rule" },
 ];
 
 // Add markers to the map
