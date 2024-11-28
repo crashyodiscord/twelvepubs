@@ -22,6 +22,7 @@ const locations = [
     { name: "Róisín Dubh", coords: [53.2702869003129, -9.058263989321592], rules: "rule" },
     { name: "Monroe's Tavern", coords: [53.27112894650648, -9.05713010993974], rules: "rule" },
     { name: "Finnegans", coords: [53.27472184279842, -9.052666914227231], rules: "rule" },
+    { name: "Carroll's Bar", coords: [53.271847549922484, -9.057730924747192], rules: "rule" },
 ];
 
 // Add markers to the map
