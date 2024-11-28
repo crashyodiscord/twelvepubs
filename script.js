@@ -20,6 +20,8 @@ const locations = [
     { name: "Bierhaus", coords: [53.271305093032204, -9.05892424081999], rules: "rule" },
     { name: "The Crane Bar", coords: [53.271305093032204, -9.061327500049803], rules: "rule" },
     { name: "Róisín Dubh", coords: [53.2702869003129, -9.058263989321592], rules: "rule" },
+    { name: "Monroe's Tavern", coords: [53.27112894650648, -9.05713010993974], rules: "rule" },
+    { name: "Finnegans", coords: [53.27472184279842, -9.052666914227231], rules: "rule" },
 ];
 
 // Add markers to the map
